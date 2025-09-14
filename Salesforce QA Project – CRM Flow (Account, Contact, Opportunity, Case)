@@ -1,19 +1,79 @@
-# Salesforce QA Project – CRM Flow (Account, Contact, Opportunity, Case)
+# 🧪 Salesforce QA Work Project
 
-## Overview
-This project demonstrates Salesforce QA testing on standard CRM objects:
-- Account creation
-- Contact linked to Account
-- Opportunity linked to Account
-- Case creation under Account
-- File upload validation
+**Software QA Project | Salesforce Testing | Manual & API Testing**
 
-## Testing Scope
-- Functional testing
-- Validation rule testing
-- Relationship testing (Account → Contact → Opportunity → Case)
-- File attachment testing
+Hello! This project is a **Salesforce CRM QA repository** containing test cases, workflows, and QA artifacts for modules like **Accounts, Contacts, Leads, and Opportunities**. It is designed to ensure smooth functionality and data accuracy in Salesforce.
 
-## Deliverables
-- TestCases.xlsx (manual test cases)
-- Screenshots of Salesforce records
+---
+
+## ✨ Project Highlights
+
+- ✅ **Manual Testing** for Web + Salesforce CRM modules
+- 🔗 **Salesforce Workflow Validation** (Accounts, Contacts, Leads, Opportunities)
+- 📝 **Detailed Test Case Documentation** in Google Sheets
+- 📸 **Screenshots** for visual reference
+- 📊 **Bug Tracking & Reporting** using Jira
+- 🤖 Ready for **Automation Preparation**
+
+---
+
+## 📂 QA Projects
+
+- 📗 [Account Creation Test Cases (Google Sheet)](https://docs.google.com/spreadsheets/)
+- 📘 [Lead Conversion Test Cases (Google Sheet)](https://docs.google.com/spreadsheets/)
+- 📙 [Opportunity Flow Test Cases (Google Sheet)](https://docs.google.com/spreadsheets/)
+
+> These links contain step-by-step QA scenarios and expected outcomes.
+
+---
+
+## 🧾 Test Case Overview
+
+| Test Case ID | Module      | Description                  | Status |
+|--------------|------------|------------------------------|--------|
+| TC001        | Account    | Create a new Account         | ✅ Pass |
+| TC002        | Contact    | Link Contact to Account      | ❌ Fail |
+| TC003        | Lead       | Convert Lead to Opportunity  | ⏳ In Progress |
+
+For the full list of test cases, please check the **Google Sheets** links above.
+
+---
+
+## 📸 Screenshots
+| Salesforce Flow | Description |
+|-----------------|-------------|
+| ![Account](Screenshot%202025-09-14%20203539.png) | Account creation process |
+| ![Contact](Screenshot%202025-09-14%20203556.png) | Contact linking process |
+| ![Case](Screenshot%202025-09-14%20203733.png) | Lead conversion workflow |
+| ![Opportunity](Screenshot%202025-09-14%20203808.png) | Opportunity tracking |
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/monikasarkar1809/Salesforce-QA-Work-Project.git
+   ```
+2. **Open the Google Sheets** to access detailed test scenarios.
+3. Execute the test cases in Salesforce following the steps provided.
+
+---
+
+## 📌 Project Status
+- **Documentation:** Completed ✅
+- **Test Cases:** In Progress ⏳
+- **Automation Prep:** Pending 🚧
+
+---
+
+## 👩‍💻 Author
+**Monika Sarkar**  
+*Software QA Analyst*
+
+- 🌐 GitHub: [@monikasarkar1809](https://github.com/monikasarkar1809)
+- 💼 LinkedIn: [Monika Sarkar](https://linkedin.com/)
+
+---
+
+> This project is part of a comprehensive Salesforce QA learning and testing journey.
