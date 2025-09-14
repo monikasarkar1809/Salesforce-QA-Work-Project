@@ -1,0 +1,19 @@
+# Salesforce QA Project – CRM Flow (Account, Contact, Opportunity, Case)
+
+## Overview
+This project demonstrates Salesforce QA testing on standard CRM objects:
+- Account creation
+- Contact linked to Account
+- Opportunity linked to Account
+- Case creation under Account
+- File upload validation
+
+## Testing Scope
+- Functional testing
+- Validation rule testing
+- Relationship testing (Account → Contact → Opportunity → Case)
+- File attachment testing
+
+## Deliverables
+- TestCases.xlsx (manual test cases)
+- Screenshots of Salesforce records
